@@ -19,6 +19,7 @@
 <url> <loc>https://winwangqi.github.io/关于/功能需求/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://winwangqi.github.io/关于/导航/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://winwangqi.github.io/关于/技术选型/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://winwangqi.github.io/写作/命名规范/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://winwangqi.github.io/爱/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://winwangqi.github.io/计算机与编程/RxJS/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://winwangqi.github.io/计算机与编程/UserAgent/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -69,12 +70,14 @@
 <url> <loc>https://winwangqi.github.io/计算机与编程/Linux/FAQs/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://winwangqi.github.io/计算机与编程/Linux/命令集/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://winwangqi.github.io/计算机与编程/Linux/用户管理/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://winwangqi.github.io/计算机与编程/Node.js/如何编写一个 CLI 工具/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://winwangqi.github.io/计算机与编程/React/Hooks/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://winwangqi.github.io/计算机与编程/React/学习资源/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://winwangqi.github.io/计算机与编程/React/生态/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://winwangqi.github.io/计算机与编程/Redis/命令/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://winwangqi.github.io/计算机与编程/Redis/基本类型/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://winwangqi.github.io/计算机与编程/TypeScript/FAQs/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://winwangqi.github.io/计算机与编程/Vue/FAQs/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://winwangqi.github.io/计算机与编程/Webpack/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://winwangqi.github.io/计算机与编程/前端开发/MVVM/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://winwangqi.github.io/计算机与编程/前端开发/动画/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://winwangqi.github.io/计算机与编程/前端开发/学习资源/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://winwangqi.github.io/计算机与编程/前端开发/安全/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -92,11 +95,10 @@
 <url> <loc>https://winwangqi.github.io/计算机与编程/算法/时间复杂度/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://winwangqi.github.io/计算机与编程/网络/HTTPS/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://winwangqi.github.io/计算机与编程/网络/抓包/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://winwangqi.github.io/计算机与编程/设计模式/装饰器模式/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://winwangqi.github.io/计算机与编程/面试/技术面试综合/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://winwangqi.github.io/计算机与编程/前端开发/MVVM/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://winwangqi.github.io/计算机与编程/Webpack/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://winwangqi.github.io/计算机与编程/Vue/FAQs/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://winwangqi.github.io/计算机与编程/TypeScript/FAQs/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://winwangqi.github.io/计算机与编程/Redux/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://winwangqi.github.io/计算机与编程/Redis/基本类型/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://winwangqi.github.io/English/EF/Music/Lession1 Talking about music you like/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://winwangqi.github.io/计算机与编程/CSS/知识点/BFC/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://winwangqi.github.io/计算机与编程/CSS/知识点/flex/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -147,12 +149,12 @@
 <url> <loc>https://winwangqi.github.io/English/EF/Meeting/Lesson3 Concluding a Meeting/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://winwangqi.github.io/English/EF/Meeting/Lesson4 Summarizing a meeting/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://winwangqi.github.io/English/EF/Telephoning/Appointment and Arrangement/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://winwangqi.github.io/计算机与编程/面试/前端开发/CSS/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://winwangqi.github.io/计算机与编程/面试/前端开发/JavaScript/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://winwangqi.github.io/计算机与编程/面试/前端开发/React/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://winwangqi.github.io/计算机与编程/面试/前端开发/浏览器/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://winwangqi.github.io/计算机与编程/面试/前端开发/综合/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://winwangqi.github.io/计算机与编程/面试/前端开发/编程题/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://winwangqi.github.io/计算机与编程/面试/前端开发/JavaScript/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://winwangqi.github.io/计算机与编程/面试/前端开发/CSS/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://winwangqi.github.io/计算机与编程/Jenkins/demo/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://winwangqi.github.io/阅读/读书笔记/小狗钱钱/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://winwangqi.github.io/阅读/读书笔记/小王子/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
