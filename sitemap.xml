@@ -47,8 +47,8 @@
 <url> <loc>https://winwangqi.github.io/计算机与编程/Babel/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://winwangqi.github.io/计算机与编程/CSS/代码片段/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://winwangqi.github.io/计算机与编程/CSS/如何使用 CSS 自动切换明暗模式/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://winwangqi.github.io/计算机与编程/CSS/学习资源/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://winwangqi.github.io/计算机与编程/Deno/参考资料/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://winwangqi.github.io/计算机与编程/CSS/学习资源/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://winwangqi.github.io/计算机与编程/Docker/学习资源/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://winwangqi.github.io/计算机与编程/DynamoDB/FAQs/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://winwangqi.github.io/计算机与编程/Golang/FAQs/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -164,8 +164,6 @@
 <url> <loc>https://winwangqi.github.io/阅读/读书笔记/自卑与超越/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://winwangqi.github.io/阅读/读书笔记/自我边界/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://winwangqi.github.io/阅读/读书笔记/规模：复杂世界的简单法则/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://winwangqi.github.io/计算机与编程/前端开发/性能监控/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://winwangqi.github.io/计算机与编程/前端开发/微前端/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://winwangqi.github.io/English/EF/Finance/Lesson1 Giving a friend financial advice/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://winwangqi.github.io/English/EF/Finance/Lesson2 Talking about the cost of living/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://winwangqi.github.io/English/EF/Meeting/Lesson1 Opening a meeting/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -181,6 +179,8 @@
 <url> <loc>https://winwangqi.github.io/计算机与编程/面试/前端开发/浏览器/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://winwangqi.github.io/计算机与编程/面试/前端开发/综合/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://winwangqi.github.io/计算机与编程/面试/前端开发/编程题/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://winwangqi.github.io/计算机与编程/前端开发/性能监控/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://winwangqi.github.io/计算机与编程/前端开发/微前端/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://winwangqi.github.io/阅读/读书笔记/象与骑象人/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://winwangqi.github.io/search</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://winwangqi.github.io/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
